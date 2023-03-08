@@ -1,0 +1,1 @@
+This is my first challenge of front-end. It was a little complicated because is the first time what i do a page with the design created. The media queries of the phones are so confusing in the start, but when have practice it´s more easy. Here i give the code if you have a correction, please tell me in my twitter @S4muelNoSoyyo or for here 
